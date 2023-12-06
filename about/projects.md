@@ -83,7 +83,7 @@ Chains utilizing Cosmos SDK
 
 ### Ecrox Chain Ecosystem
 
-<table><thead><tr><th width="57" align="right"> </th><th width="220">Blockscout Instance</th><th>Description</th></tr></thead><tbody><tr><td align="right"><img src="https://ecroxcoin.io/images/header/gfx-k.png" alt="" data-size="line"></td><td><a href="https://ecroxscan.com/">Ecrox Chain</a></td><td>Ecrox Chain, the highly anticipated blockchain ecosystem, is gearing up to revolutionize the industry with its focus on security, lightning-fast transactions, and a comprehensive array of interconnected services and platforms. <mark style="background-color:blue;">Self Hosted</mark> <a href="https://ecroxcoin.io">🌐 site</a></td></tr></tbody></table>
+<table><thead><tr><th width="57" align="right"> </th><th width="220">Blockscout Instance</th><th>Description</th></tr></thead><tbody><tr><td align="right"><img src="../.gitbook/assets/ecrox.png" alt="" data-size="line"></td><td><a href="https://ecroxscan.com/">Ecrox Chain</a></td><td>Ecrox Chain, the highly anticipated blockchain ecosystem, is gearing up to revolutionize the industry with its focus on security, lightning-fast transactions, and a comprehensive array of interconnected services and platforms. <mark style="background-color:blue;">Self Hosted</mark> <a href="https://ecroxcoin.io">🌐 site</a></td></tr></tbody></table>
 
 ### Solana Ecosystem
 
